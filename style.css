@@ -73,3 +73,12 @@
     font-size: 13px;
     text-align: justify;
 }
+.card:hover{
+    transform: translateY(-5px);
+    transition: ease-in-out 0.2s;
+}
+.btn:hover{
+    color: #ffc107;
+    background-color: black;
+    border: none;
+}
